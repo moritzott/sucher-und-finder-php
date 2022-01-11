@@ -1,16 +1,10 @@
 # Sucher & Finder
 
 ## Über das Projekt
-
+* siehe [Hauptseite](https://github.com/moritzott/sucher-und-finder)
 ## Technik:
-* Pures PHP und MySQL/MariaDB
+* PHP und MySQL/MariaDB
 
-## Installation und Einrichtung
-* finden Sie im Ordner 'install'
 
-## Dokumentation
-* eine Doku über die Funktionsweise von Sucher & Finder
-und die einzelnen Komponenten können im Ordner 'doc' geunden werden
 
-## Noch zu erledigen:
-* Captcha-Schutz vor botmäßiger Anmeldung
+
